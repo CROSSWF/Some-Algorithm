@@ -1,6 +1,7 @@
 import java.util.Scanner;
 
 public class HitPuck {
+	//利用动态规划判断奥数飞弹打精灵龙问题
 	private static Scanner scanner;
 
 	public static void main(String arg[]) {
